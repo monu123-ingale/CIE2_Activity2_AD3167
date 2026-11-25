@@ -1,4 +1,4 @@
-# CIE2 Activity 2 – Binary Classification using Logistic Regression
+<img width="842" height="700" alt="image" src="https://github.com/user-attachments/assets/4f8e4b55-717b-41fd-8ad3-29fec055a354" /># CIE2 Activity 2 – Binary Classification using Logistic Regression
 
 ## Project Description
 This project demonstrates binary classification using the Logistic Regression algorithm and the Breast Cancer Wisconsin dataset.
@@ -47,3 +47,10 @@ GitHub: https://github.com/monu123-ingale
 
 ## Submission
 GitHub ID: https://github.com/complexiota
+
+ ## Decision Log
+
+1. Used stratified train-test splitting to maintain class distribution.
+2. Considered false negatives important because missing malignant cases can be risky.
+3. Compared decision thresholds of 0.3, 0.5 and 0.7.
+4. Recommended a threshold of 0.3 based on the model's recall and F1-score.
