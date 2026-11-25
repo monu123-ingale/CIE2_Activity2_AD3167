@@ -1,4 +1,4 @@
-<img width="842" height="700" alt="image" src="https://github.com/user-attachments/assets/4f8e4b55-717b-41fd-8ad3-29fec055a354" /># CIE2 Activity 2 – Binary Classification using Logistic Regression
+# CIE2 Activity 2 – Binary Classification using Logistic Regression
 
 ## Project Description
 This project demonstrates binary classification using the Logistic Regression algorithm and the Breast Cancer Wisconsin dataset.
